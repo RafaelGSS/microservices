@@ -1,4 +1,4 @@
-const { createConnection } = require('./connection')
+const { createConnection } = require('../connection')
 
 createConnection()
   .then(conn => conn.createChannel())
