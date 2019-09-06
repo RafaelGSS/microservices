@@ -3,9 +3,8 @@
 Examples with:
 
 - RabbitMQ
-- Fastify (NodeJS)
 
-Reference for [medium](#) article
+Reference for [medium](https://medium.com/@rafaelgss/comunicacao-entre-microservices-async-ed3e5897ba6) article
 
 ### Requeriments
 
